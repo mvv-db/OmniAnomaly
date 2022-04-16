@@ -11,4 +11,4 @@ imageio >= 2.4.1
 fs >= 2.3.0
 click >= 7.0
 zhusuan @ git+https://github.com/thu-ml/zhusuan.git
-tfsnippet @ git+https://github.com/haowen-xu/tfsnippet.git
+tfsnippet @ git+https://github.com/mvv-db/tfsnippet.git
