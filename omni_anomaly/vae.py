@@ -1,5 +1,5 @@
 # -*- coding: utf-8 -*-
-import tensorflow as tf
+import tensorflow.compat.v1 as tf
 from tfsnippet.bayes import BayesianNet
 from tfsnippet.distributions import Distribution
 from tfsnippet.stochastic import StochasticTensor, validate_n_samples_arg
